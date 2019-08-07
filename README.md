@@ -1,4 +1,4 @@
-# License Plate Detector
+# License Plate Recognition
 <img src="readmeimg.png"/>
 Libraries dependancies:
   <ul>
