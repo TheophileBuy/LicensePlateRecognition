@@ -1,0 +1,13 @@
+Clone darkflow repository from https://github.com/thtrieu/darkflow
+Follow darkflow readme for installation
+
+Move yolo.cfg / yolo-character.cfg / yolo-plate.cfg to ./darkflow/cfg/
+Move yolo.weights to ./darkflow/bin/
+Move train-character.py / train-plate.py to ./darkflow/
+
+Change labels in ./darkflow/labels.txt
+
+Add your dataset with annotations in ./darkflow/data/
+
+run train-character.py or train-plate.py to train your yolo
+
